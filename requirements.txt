@@ -1,2 +1,9 @@
 nose
+pytest
 sphinx
+ipykernel
+requests
+pandas
+pyarrow
+fastparquet
+scikit-learn
